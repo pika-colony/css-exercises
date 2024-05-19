@@ -1,0 +1,18 @@
+.odd {
+    color: #ffadc2;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.24fs {
+    font-size: 24px;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #60ff60;
+    font-weight: 700;
+}
