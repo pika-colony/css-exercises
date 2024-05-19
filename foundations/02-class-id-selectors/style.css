@@ -1,9 +1,9 @@
 .odd {
-    color: #ffadc2;
+    background-color: #ffadc2;
     font-family: Veranda, "DejaVu Sans", sans-serif;
 }
 
-.24fs {
+.fs {
     font-size: 24px;
 }
 
